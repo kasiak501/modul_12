@@ -1,0 +1,26 @@
+body {
+    background-color: darkgrey;
+    color: white;
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.result-box {
+    background-color: gray;
+}
+
+li img {
+    width: 100px;
+    height: auto;
+    margin-top: 5px;
+}
