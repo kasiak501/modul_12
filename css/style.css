@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+}
+
+.main-heading {
+    font-size: 30px;
+    
+    margin: 80px 0;
+}
+
+.quote {
+    font-style: bold;
+    
+    text-transform: uppercase;
+
+.author {
+    margin-bottom: 50px;
+}
+
+.trigger,
+.tweet {
+    background-color: transparent;
+    border: solid  2px;
+    border-radius: 10px;
+    
+    font-size: 20px;
+    padding: 10px 60px;
+    width: 400px;
+    cursor: pointer;
+}
+
+.tweet {    
+    text-decoration: none;
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 0;
+}
