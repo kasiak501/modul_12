@@ -6,7 +6,7 @@ button.addEventListener('click', function() {
 var paragraph = document.getElementById('joke'),
   stats = document.getElementById('stats');
 //get joke when page is loaded
-document.addEventListener("DOMContentLoaded", getJoke());
+document.addEventListener("DOMContentLoaded", getJoke);
 
 function getJoke() {
   var xhr = new XMLHttpRequest();
